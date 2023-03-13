@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/romanmalan/sneakers1/static/css/main.4d8095c1.css",
+    "main.js": "/romanmalan/sneakers1/static/js/main.67869b41.js",
+    "index.html": "/romanmalan/sneakers1/index.html",
+    "static/media/arrow.svg": "/romanmalan/sneakers1/static/media/arrow.fc3222511ec5a224a4ab.svg",
+    "static/media/arrow_left.svg": "/romanmalan/sneakers1/static/media/arrow_left.ac63c7c4d2e44bfd03e9.svg",
+    "main.4d8095c1.css.map": "/romanmalan/sneakers1/static/css/main.4d8095c1.css.map",
+    "main.67869b41.js.map": "/romanmalan/sneakers1/static/js/main.67869b41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d8095c1.css",
+    "static/js/main.67869b41.js"
+  ]
+}
